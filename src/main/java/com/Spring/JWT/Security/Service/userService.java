@@ -1,8 +1,8 @@
-package com.Spring.Security.Service;
+package com.Spring.JWT.Security.Service;
 
-import com.Spring.Security.Model.SecurityEntity;
-import com.Spring.Security.Model.securityDetails;
-import com.Spring.Security.Repository.SecurityRepo;
+import com.Spring.JWT.Security.Model.SecurityEntity;
+import com.Spring.JWT.Security.Model.securityDetails;
+import com.Spring.JWT.Security.Repository.SecurityRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

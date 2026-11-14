@@ -1,6 +1,6 @@
-package com.Spring.Security.Repository;
+package com.Spring.JWT.Security.Repository;
 
-import com.Spring.Security.Model.SecurityEntity;
+import com.Spring.JWT.Security.Model.SecurityEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

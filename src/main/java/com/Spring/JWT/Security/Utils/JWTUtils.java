@@ -1,4 +1,4 @@
-package com.Spring.Security.Utils;
+package com.Spring.JWT.Security.Utils;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;

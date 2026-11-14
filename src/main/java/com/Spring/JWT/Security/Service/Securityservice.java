@@ -1,9 +1,9 @@
-package com.Spring.Security.Service;
+package com.Spring.JWT.Security.Service;
 
-import com.Spring.Security.Model.RequestDTO;
-import com.Spring.Security.Model.ResponseDTO;
-import com.Spring.Security.Model.SecurityEntity;
-import com.Spring.Security.Repository.SecurityRepo;
+import com.Spring.JWT.Security.Model.RequestDTO;
+import com.Spring.JWT.Security.Model.ResponseDTO;
+import com.Spring.JWT.Security.Model.SecurityEntity;
+import com.Spring.JWT.Security.Repository.SecurityRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

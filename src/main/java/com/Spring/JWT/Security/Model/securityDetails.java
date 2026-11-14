@@ -1,4 +1,4 @@
-package com.Spring.Security.Model;
+package com.Spring.JWT.Security.Model;
 
 import org.jspecify.annotations.Nullable;
 import org.springframework.security.core.GrantedAuthority;

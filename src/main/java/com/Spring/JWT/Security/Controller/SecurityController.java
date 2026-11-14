@@ -1,8 +1,8 @@
-package com.Spring.Security.Controller;
+package com.Spring.JWT.Security.Controller;
 
-import com.Spring.Security.Model.RequestDTO;
-import com.Spring.Security.Model.ResponseDTO;
-import com.Spring.Security.Service.Securityservice;
+import com.Spring.JWT.Security.Model.RequestDTO;
+import com.Spring.JWT.Security.Model.ResponseDTO;
+import com.Spring.JWT.Security.Service.Securityservice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

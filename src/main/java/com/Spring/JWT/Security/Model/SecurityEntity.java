@@ -1,4 +1,4 @@
-package com.Spring.Security.Model;
+package com.Spring.JWT.Security.Model;
 
 import jakarta.persistence.*;
 import lombok.*;

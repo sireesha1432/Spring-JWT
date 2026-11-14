@@ -1,4 +1,4 @@
-package com.Spring.Security.Model;
+package com.Spring.JWT.Security.Model;
 
 import lombok.*;
 
@@ -7,8 +7,10 @@ import lombok.*;
 @NoArgsConstructor
 @Getter
 @Setter
-public class ResponseDTO {
-    private String user;
+public class RequestDTO {
+
+    private String name;
     private String password;
+
 }
 

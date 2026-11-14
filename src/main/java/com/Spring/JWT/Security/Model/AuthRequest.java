@@ -1,4 +1,4 @@
-package com.Spring.Security.Model;
+package com.Spring.JWT.Security.Model;
 
 import lombok.Data;
 import lombok.Getter;
